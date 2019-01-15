@@ -1,7 +1,7 @@
 # EjercicioSencilloJavaMysQL_ver10
 
 En esta versión -además de incorporarse las fucionalidades del anterior- se ha incorporado a  la tabla 'usuario' de la base de datos 
-'sistema' una nueva columana llamada Fecha con objeto de hacer uso del componente del interfaz gráfico Jcalendar.
+'sistema' una nueva columana llamada Fecha con objeto de hacer uso de la librería de componentes del interfaz gráfico JCalendar.
 Como consecuencia se han hecho las  modificaciones pertinentes en los métodos que se fueron desarrollando en versiones anteriores.
 
 Para acceder a la aplicación mediante el login:
